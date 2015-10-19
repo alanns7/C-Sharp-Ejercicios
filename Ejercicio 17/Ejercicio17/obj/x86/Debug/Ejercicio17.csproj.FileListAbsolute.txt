@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio17\Ejercicio17\obj\x86\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio17\Ejercicio17\obj\x86\Debug\Ejercicio17.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio17\Ejercicio17\obj\x86\Debug\Ejercicio17.pdb

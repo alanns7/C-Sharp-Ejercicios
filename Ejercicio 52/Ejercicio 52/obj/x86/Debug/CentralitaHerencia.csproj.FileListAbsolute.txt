@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 52 VER\Ejercicio 52\bin\Debug\Ejercicio 52.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 52 VER\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 52 VER\Ejercicio 52\obj\x86\Debug\Ejercicio 52.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 52 VER\Ejercicio 52\obj\x86\Debug\Ejercicio 52.pdb
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 52 VER\Ejercicio 52\obj\x86\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache

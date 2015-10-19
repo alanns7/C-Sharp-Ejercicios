@@ -1,0 +1,4 @@
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 24\Ejercicio 24\bin\Debug\Ejercicio 24.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 24\Ejercicio 24\bin\Debug\Ejercicio 24.pdb
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 24\Ejercicio 24\obj\x86\Debug\Ejercicio 24.exe
+C:\Users\Alan\Desktop\Alan\Programación\2do Cuatri - C#\Laboratorio\Ejercicios\Ejercicio 24\Ejercicio 24\obj\x86\Debug\Ejercicio 24.pdb

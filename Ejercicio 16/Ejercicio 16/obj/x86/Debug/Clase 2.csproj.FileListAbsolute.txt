@@ -1,0 +1,4 @@
+D:\Alan sbaglia\Ejercicios\clase 2\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+D:\Alan sbaglia\Ejercicios\clase 2\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+D:\Alan sbaglia\Ejercicios\clase 2\Clase 2\Clase 2\obj\x86\Debug\Clase 2.exe
+D:\Alan sbaglia\Ejercicios\clase 2\Clase 2\Clase 2\obj\x86\Debug\Clase 2.pdb
